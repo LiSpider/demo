@@ -1,6 +1,6 @@
-package com.example.service;
+package com.example.shiro.service;
 
-import com.example.model.User;
+import com.example.shiro.model.User;
 
 public interface UserService {
 

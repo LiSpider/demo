@@ -1,8 +1,8 @@
-package com.example.service.Impl;
+package com.example.shiro.service.Impl;
 
-import com.example.mapper.UserMapper;
-import com.example.model.User;
-import com.example.service.UserService;
+import com.example.shiro.mapper.UserMapper;
+import com.example.shiro.model.User;
+import com.example.shiro.service.UserService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

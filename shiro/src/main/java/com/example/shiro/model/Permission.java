@@ -1,4 +1,4 @@
-package com.example.model;
+package com.example.shiro.model;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.example.model;
+package com.example.shiro.model;
 
 import lombok.Data;
 
@@ -10,7 +10,7 @@ public class Role {
 
     private Integer rid;
 
-    private String name;
+    private String rname;
 
     private Set<Permission> permissions = new HashSet<>();
 
