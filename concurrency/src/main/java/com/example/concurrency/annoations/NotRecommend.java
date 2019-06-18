@@ -1,4 +1,4 @@
-package com.example.annoations;
+package com.example.concurrency.annoations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
